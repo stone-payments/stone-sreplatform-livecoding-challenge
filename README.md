@@ -60,6 +60,13 @@ Durante o ciclo de desenvolvimento, recomendamos que utilize um cluster local. I
 
 Depois dessa instalação, siga o [Quick Start do Kubebuilder](https://kubebuilder.io/quick-start.html#test-it-out) para entender como utilizar o Makefile do repositório para auxiliar no seu processo de desenvolvimento.
 
+---
+**NOTE**
+
+O ambiente deve estar configurado para o LiveCoding. Assim podemos focar somente no código e não na configuração do ambiente
+
+---
+
 ## Referências
 
 Para ajudá-lo no processo de estudos sobre os assuntos, separamos alguns materiais de estudos:
