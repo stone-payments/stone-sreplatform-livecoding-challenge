@@ -60,7 +60,14 @@ Durante o ciclo de desenvolvimento, recomendamos que utilize um cluster local. I
 
 Depois dessa instalação, siga o [Quick Start do Kubebuilder](https://kubebuilder.io/quick-start.html#test-it-out) para entender como utilizar o Makefile do repositório para auxiliar no seu processo de desenvolvimento.
 
->O ambiente local deve estar configurado para o LiveCoding. Assim podemos focar somente no código e não na configuração do ambiente
+## O que é esperado do candidato para o momento da entrevista LiveCoding
+
+Para que possamos ter uma entrevista produtiva e focar somente no código e não na configuração do ambiente, esperamos que:
+
+- O candidato tenha estudado e executado o código em sua estação local.
+- Que seja capaz de compartilhar sua tela (via Google Meet) para mostrar, trabalhar e executar o código de forma acompanhada pelos entrevistadores.
+    - Isso implica na configuração adequada de seu enviroment Go e IDE para execução do código durante o LiveCoding.
+- Caso o candidato utilize o VisualStudio Code, sugerimos a realizar a [preparação do recurso de Live Sharing do editor](https://visualstudio.microsoft.com/services/live-share/), que pode nos permitir uma interação mais dinâmica caso seja desejado.
 
 ## Referências
 
